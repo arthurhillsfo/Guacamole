@@ -1,2 +1,4 @@
 mash
 add
+chop
+serve
